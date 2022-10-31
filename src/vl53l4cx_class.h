@@ -131,7 +131,7 @@ class VL53L4CX {
      */
     void setXShutPin(int xshut_pin)
     {
-      xshut = xshut_pin;
+      xshut_ = xshut_pin;
     }
 
     /**
